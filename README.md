@@ -1,4 +1,2 @@
-# git clone
-
-git clone updated
+# git clon
 git details are 
